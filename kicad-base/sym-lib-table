@@ -1,0 +1,5 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "Lib") (type "KiCad") (uri "${KIPRJMOD}/Lib.kicad_sym") (options "") (descr ""))
+	(lib (name "HMC5883L-TR") (type "KiCad") (uri "${KIPRJMOD}/HMC5883L-TR.kicad_sym") (options "") (descr ""))
+)

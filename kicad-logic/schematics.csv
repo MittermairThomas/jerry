@@ -1,0 +1,16 @@
+﻿Reference,Qty,Value,DNP,Exclude from BOM,Exclude from Board,Footprint,Datasheet,LSCS Part #
+"C2,C3",2,4.7u,,,,Capacitor_SMD:C_0603_1608Metric,,C108342
+"C4,C5,C6,C9,C11,C13,C16,C17,C20",9,100n,,,,Capacitor_SMD:C_0603_1608Metric,,C2181076
+"C7,C8",2,27p,,,,Capacitor_SMD:C_0402_1005Metric,,C2207731
+C10,1,220n,,,,Capacitor_SMD:C_0603_1608Metric,,C519556
+C12,1,10u,,,,Capacitor_SMD:C_1206_3216Metric,,C53084272
+"C15,C19",2,2.2u,,,,Capacitor_SMD:C_0603_1608Metric,,C43922
+"D1,D2,D3,D4",4,Err,,,,LED_SMD:LED_0603_1608Metric,,C6538537
+R1,1,10k,,,,Resistor_SMD:R_0805_2012Metric,,C2076994
+"R2,R3",2,4.7k,,,,Resistor_SMD:R_0805_2012Metric,,C336873
+"R4,R5,R6,R7",4,90,,,,Resistor_SMD:R_0805_2012Metric,,C1695952
+U1,1,AP7361C-33E,,,,Package_TO_SOT_SMD:SOT-223-3_TabPin2,https://www.diodes.com/assets/Datasheets/AP7361C.pdf,C500795
+U2,1,ATmega328PB-A,,,,Package_QFP:TQFP-32_7x7mm_P0.8mm,http://ww1.microchip.com/downloads/en/DeviceDoc/40001906C.pdf,C132230
+U3,1,LIS2MDL,,,,Package_LGA:LGA-12_2x2mm_P0.5mm,https://www.st.com/resource/en/datasheet/lis2mdl.pdf,C2655002
+"U4,U5",2,DRV8833PW,,,,Package_SO:TSSOP-16-1EP_4.4x5mm_P0.65mm,http://www.ti.com/lit/ds/symlink/drv8833.pdf,C50506
+Y1,1,Crystal 8MHz,,,,Crystal:Crystal_SMD_2016-4Pin_2.0x1.6mm,,C5917261
